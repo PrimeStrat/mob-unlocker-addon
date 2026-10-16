@@ -1,0 +1,64 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "pack.name",
+        "description": "pack.description",
+        "uuid": "2e0e1a42-a53e-4778-9140-c3b33ff3f0f6",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            26,
+            50
+        ]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "d3e29928-8dda-4a3e-9285-8713bf4a63f2",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "script",
+            "language": "javascript",
+            "uuid": "0dc79b23-359a-4d83-91f8-a12832d89f17",
+            "version": [
+                1,
+                0,
+                0
+            ],
+            "entry": "scripts/main.js"
+        }
+    ],
+    "dependencies": [
+        {
+            "module_name": "@minecraft/server",
+            "version": "2.10.0"
+        },
+        {
+            "module_name": "@minecraft/server-ui",
+            "version": "2.2.0"
+        },
+        {
+            "uuid": "95aa151c-af98-454c-aac3-50713c97f30a",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ],
+    "metadata": {
+        "authors": [
+            "PrimeStrat"
+        ],
+        "product_type": "addon"
+    }
+}

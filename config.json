@@ -1,0 +1,30 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Bedrock-OSS/regolith-schemas/main/config/v1.8.json",
+    "author": "PrimeStrat",
+    "name": "mob_unlocker",
+    "packs": {
+        "behaviorPack": "./mob_unlocker_bp",
+        "resourcePack": "./mob_unlocker_rp"
+    },
+    "regolith": {
+        "formatVersion": "1.8.0",
+        "dataPath": "./data",
+        "filterDefinitions": {},
+        "profiles": {
+            "default": {
+                "export": {
+                    "target": "development",
+                    "build": "standard",
+                    "readOnly": false
+                },
+                "filters": []
+            },
+            "build": {
+                "export": {
+                    "target": "local"
+                },
+                "filters": []
+            }
+        }
+    }
+}

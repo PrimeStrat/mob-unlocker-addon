@@ -67,6 +67,7 @@ export const MOB_KEYS = [
     "minecraft:squid",
     "minecraft:stray",
     "minecraft:strider",
+    "minecraft:sulfur_cube",
     "minecraft:tadpole",
     "minecraft:trader_llama",
     "minecraft:tropicalfish",

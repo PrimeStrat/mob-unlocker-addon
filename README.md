@@ -28,9 +28,13 @@ fixed list of every mob in the game.
 
 ## What counts as a kill
 
-- The killer must be a player. Arrows, tridents, and other things you shoot
-  count as your kill.
-- Kills by pets, other mobs, lava, or falling do not count.
+- Hit a mob once (with your hand, a weapon, or something you shoot). After
+  that, if the mob dies in any way, it counts for you. Lava, falling, pets,
+  and other mobs all count, as long as you hit it first.
+- If more than one player hit the mob, it counts for all of them.
+- The Creaking cannot be killed by hits. Break its Creaking Heart instead.
+  It counts for the player who breaks the heart and for every player within
+  48 blocks of the Creaking. No hit is needed.
 - Each mob type counts once. Variants (wolf types, cat colors, sheep colors,
   and so on) are all one entry.
 

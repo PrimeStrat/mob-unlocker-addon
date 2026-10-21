@@ -40,7 +40,7 @@ fixed list of every mob in the game.
 
 ## License
 
-Copyright (c) 2026 PrimeStrat. All rights reserved.
+Copyright (c) 2026 Prime Software Development. All rights reserved.
 
 Videos, streams, and monetized content are welcome. You can run it on your
 server or put it in a modpack, as long as you credit PrimeStrat and link back
